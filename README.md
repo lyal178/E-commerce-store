@@ -2,7 +2,7 @@ E-Commerce Store 🛍️
 
 A modern e-commerce application built with React and Vite that allows users to browse products, add them to the cart, and checkout. This project is part of my portfolio to showcase my frontend development skills.
 
-[Live Demo](https://lyal178-weather.netlify.app/)
+[Live Demo](https://lyal178-e-commerce-store.netlify.app/)
 Features
 
     🛒 Add products to the cart with quantity control.
