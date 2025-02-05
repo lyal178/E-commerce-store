@@ -22,8 +22,8 @@ const CartItems = ({ shoppingCart, setShoppingCart }) => {
   return (
     <div className="cart-items">
       {shoppingCart.map((item) => (
-          <div className="cart-product-info">
-            <div key={item.id} className="cart-item">
+          <div key={item.id} className="cart-product-info">
+            <div className="cart-item">
           <img
             className="cart-product-image"
             src={item.image}
